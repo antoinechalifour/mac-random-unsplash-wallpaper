@@ -1,0 +1,11 @@
+{
+  "name": "mac-unsplash-wallpaper",
+  "version": "0.1.0",
+  "description": "A CLI script to use a random Unsplash image as a wallpaper",
+  "main": "index.js",
+  "author": "antoinechalifour <antoine.chalifour@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
